@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: lwn15659918109
+    url: jdbc:mysql://localhost:3306/j2sesql?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
+    username: root
